@@ -1,2 +1,2 @@
 # 🥇 Certificates
-- Certified Public Accountant (Taiwan)
+- Software Engineer Immserive Certificate (General Assembly, New York)

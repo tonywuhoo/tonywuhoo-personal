@@ -1,32 +1,21 @@
 # 💻 Skills
 
 ## General Tech Stacks
-- Architecture Design
-- Desktop App Development
+- MERN Stack
+- Mongo / Django integration with Javascript
 - Web Development (Frontend & Backend)
 
 ## Programming languages
-- C# .NET
 - Python
-- JavaScript/TypeScript
-  - React.js
-- T-SQL
-- Go
+- JavaScript
+- React.js
 - C++
-- Java
-- VB.NET/VBA
 
 ## Databases
-- MSSQL
+- Django
 - PostgreSQL
-- MySQL
-- SQLite
-
-## Cloud
-- Azure
-- GCP
-- Heroku
-- Render
+- Mongoose
+- MongoDB
 
 ## Vcs
 - Git
