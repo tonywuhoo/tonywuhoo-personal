@@ -27,8 +27,6 @@ Broke College Kid
 
 - 
 
-&nbsp;
-
 
 # 👨‍🎓 Education
 
