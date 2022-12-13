@@ -2,8 +2,7 @@
 
 ## Summary
 
-Broke College Kid
-
+Software Engineering student studying CS @Hunter and software applications @GeneralAssembly. Well-versed in numerous programming languages and frameworks such as Javascript, Python, React, Django with modern databases such as PostSQL, MongoDB. With technical applications in software tools, finance, and information. On a mission to immersive myself with an enviroment to continue to develop the student in me to become a professional.
 
 ## Experience
 
