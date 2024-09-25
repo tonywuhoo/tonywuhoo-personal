@@ -1,21 +1,30 @@
 # 💻 Skills
 
-## General Tech Stacks
-- MERN Stack
-- Mongo / Django integration with Javascript
-- Web Development (Frontend & Backend)
-
 ## Programming languages
 - Python
 - JavaScript
-- React.js
 - C++
+- Java
 
 ## Databases
-- Django
 - PostgreSQL
-- Mongoose
 - MongoDB
+- Oracle RDBMS
+- Microsoft SQL Server
 
-## Vcs
-- Git
+## Frameworks/Packages
+- React.js , Node.js , Numpy, Selenium, Django, Flask
+
+## Tech Products
+- Prometheus
+- Docker
+- Kubernetes
+- Ansible
+- Grafana
+- Elastic Search
+
+## Editors
+- Atom
+- Visual Studio Code
+- Android Studios
+- IntelliJ
