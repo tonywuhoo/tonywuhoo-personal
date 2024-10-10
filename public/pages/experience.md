@@ -3,8 +3,8 @@
 **Platform Engineer Part-Time** @ [BGC Group](https://www.bgcg.com/) _(September 2024 - Present)_
 
 - Deployed Grafana stack using Kubernetes to ensure scalability and high availability, reducing monitoring downtime by 25% and visualizing key metrics like server health and resource utilization.
-- Containerized Trading Exchange applications, optimizing deployment cycles and ensuring consistent environments for federal swaps trading.
-- Collect, organize, and aggregates infrastructure data across thousands of data centers daily
+- Containerized Trading Exchange applications, optimizing deployment cycles and ensuring consistent environments for equities trading.
+- Collaborated with the quantitative team to develop an in-place upgrade process for multiple Linux distributions, ensuring zero downtime and maintaining production capabilities across critical trading systems.
 - _**Technologies used:**_ Python, Grafana, Docker, Kubernetes, Ansible, SQL, HP OBM, RestAPI
 
 **Platform Engineer Part-Time** @ [Cantor Fitzgerald](https://www.cantor.com/) _(June 2024 - September 2024)_
