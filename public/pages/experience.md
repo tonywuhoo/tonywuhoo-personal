@@ -1,20 +1,21 @@
 # 👨‍💻 Experience
 
 **Software Engineer Intern** @ [BGC Group](https://www.bgcg.com/) _(September 2024 - Present)_
-
-- Developed a microservice with OpenTelemetry, enhancing system observability by allowing seamless backend switches, which reduced monitoring-related downtimes by 30%
-- Deployed a scalable Grafana stack using Kubernetes, reducing monitoring setup time by 50% and enabling real-time visibility into application and service health along with resource utilization for mission-critical trading systems.
-- Containerized Trading Exchange applications, optimizing deployment cycles and ensuring consistent environments for equities trading.
+- Collaborated with infrastructure team to implement trace context propagation for an OpenTelemetry microservice, tracking latency across distributed systems to improve performance monitoring.
+- Migrated Grafana stack from monolithic to Kubernetes-based deployment for infrastructure logging, enabling faster updates and reducing deployment time.
+- Applied knowledge of containers, pods, distributed systems, on-prem infrastructure, and OpenTelemetry components like spans, metrics, and distributed tracing.
 - _**Technologies used:**_ Python, Docker, Kubernetes, OpenTelemetry
 
 **Software Engineer Intern** @ [Cantor Fitzgerald](https://www.cantor.com/) _(June 2024 - September 2024)_
-
-- Integrated AD authentication using Microsoft’s ADAL library with Spring Security, creating seamless Single Sign-On (SSO) access for the M&A portal.
-- Enabled real-time PowerBI data sync with SignalR and Redis, leveraging PowerBI’s REST API to display live financial metrics in the portal, updating instantly when PowerBI data changes.
-- Deployed the portal with Docker on an internal DMZ subnet, ensuring secure, cross-regional access with firewall rules and load balancing for high availability.
+- Simplified login for 1,200 bankers with single-click SSO by integrating AD authentication using Microsoft’s ADAL
+library with Spring Security, creating seamless Single Sign-On (SSO) access for the M&A portal.
+- Implemented PowerBI data sync with SignalR and Redis, using PowerBI’s REST API to display near-real-time
+financial metrics in the portal.
+- Deployed a full-stack web portal with Docker on an internal DMZ subnet, allowing for secure access within the
+company network.
 - _**Technologies used:**_ Python, Javascript, Docker, Redis
 
-**Coding Instructor** @ [Future Sphere](https://www.thefuturesphere.com/en) _(March 2023 - Present)_
+**Computer Science Instructor** @ [Future Sphere](https://www.thefuturesphere.com/en) _(March 2023 - Present)_
 
 - Effectively taught over 50 students in Computer Science using whiteboarding, leading to 100% retention and 90% overall on exam scores over the period of a year.
 - _**Technologies used:**_ Python, JS/HTML/CSS, Algorithms
