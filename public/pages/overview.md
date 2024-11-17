@@ -6,29 +6,42 @@ Hi! My name is Tony, and I’m a Computer Science and Mathematics student at Hun
 
 # 👨‍💻 Experience
 
-**Software Engineer Intern** @ [BGC Group](https://www.bgcg.com/) _(September 2024 - Present)_
+# 👨‍💻 Experience
 
-- Collaborated with infrastructure team to implement trace context propagation for an OpenTelemetry microservice, tracking latency across distributed systems to improve performance monitoring.
-- Migrated Grafana stack from monolithic to Kubernetes-based deployment for infrastructure logging, enabling faster updates and reducing deployment time.
-- Applied knowledge of containers, pods, distributed systems, on-prem infrastructure, and OpenTelemetry components like spans, metrics, and distributed tracing.
-- _**Technologies used:**_ Python, Docker, Kubernetes, OpenTelemetry
+**Software Engineer Intern - Infrastructure** @ [BGC Group](https://www.bgcg.com/) _(August 2024 - Present)_
+-  Member of the Core Infrastructure Team for Enterprise Trading Systems and Electronic Brokerage.
+-  Developed and configured pipelines to automate infrastructure tasks and validate code in dev environments.
+-  Migrated Grafana stack from monolithic to Kubernetes, consolidating 8 services like Prometheus and HP OBM,
+reducing redeployment time by 40%.
+-  Leveraged Ansible, Kubernetes Tanzu, Python, shell scripts, and cron jobs across multiple Linux distributions to
+automate workflows.
+- _**Technologies used:**_ Python, Docker, Kubernetes
 
-**Software Engineer Intern** @ [Cantor Fitzgerald](https://www.cantor.com/) _(June 2024 - September 2024)_
-
-- Simplified login for 1,200 bankers with single-click SSO by integrating AD authentication using Microsoft’s ADAL
-library with Spring Security, creating seamless Single Sign-On (SSO) access for the M&A portal.
-- Implemented PowerBI data sync with SignalR and Redis, using PowerBI’s REST API to display near-real-time
-financial metrics in the portal.
-- Deployed a full-stack web portal with Docker on an internal DMZ subnet, allowing for secure access within the
-company network.
+**Software Engineer Intern - Full Stack** @ [Cantor Fitzgerald](https://www.cantor.com/) _(June 2024 - August 2024)_
+-  Built internal tools to improve data access and streamline workflows for 1,200 front-office bankers.
+-  Collaborated with 2 interns and 4 engineers to build an M&A portal, streamlining global data access.
+-  Implemented LDAP authentication with ADAL and Spring Security, streamlining access for 1,200 bankers and
+cutting login times by 10 seconds per session.
+-  Built a Redis-based pub/sub system for internal dashboard synchronization, achieving sub-50ms latency between
+PowerBI updates and backend DB (Oracle).
 - _**Technologies used:**_ Python, Javascript, Docker, Redis
+
+**Founder - CEO** @ [CTB Trading Inc.](#) _(October 2023 - Present)_
+
+- Founded and scaled an online e-commerce and local wholesaling business specializing in grocery goods, generating over $200k in revenue since inception.
+- Automated shipping label creation using Python scripts integrated with UPS/USPS APIs, improving order fulfillment efficiency.
+- Hired and managed part-time staff to assist with packing and logistics, ensuring seamless operations and timely deliveries.
+- Tracked expenses, financials, and forms such as NY ST-120 using Excel files, streamlining accounting processes.
+- Successfully navigated product intellectual property challenges, enabling the legal sale of non-IP-owned products
+at scale.
+- _**Technologies used:**_ Python, Excel
 
 **Computer Science Instructor** @ [Future Sphere](https://www.thefuturesphere.com/en) _(March 2023 - Present)_
 
 - Effectively taught over 50 students in Computer Science using whiteboarding, leading to 100% retention and 90% overall on exam scores over the period of a year.
 - _**Technologies used:**_ Python, JS/HTML/CSS, Algorithms
 
-**Database Engineer Intern** @ [New York Technology Office](https://its.ny.gov/) _(June 2023 - September 2023)_
+**Information Technology Intern** @ [New York Technology Office](https://its.ny.gov/) _(June 2023 - September 2023)_
 
 - Designed Oracle SQL schemas for asset management, managing and tracking over $40 million in agency assets. Streaming management, audits and retrieval of data.
 - Enhanced database automations with Python and shell scripts, boosting operational efficiency by 30% and strengthening data integrity.
@@ -45,6 +58,7 @@ company network.
 - Participated in conferences with real working attorneys that served as mentors to fellow apprentices on criminal law and civil law
 - Experienced mock/live court hearings involving domestic violence cases, civil charges to further learn more about the justice system
 - Presented mock stages of the trial, including opening statements, evidence presentation, cross-examinations, verdicts on both the plantiff and defense side
+
 
 # 🧪 Projects
 
