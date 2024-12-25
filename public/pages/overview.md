@@ -6,8 +6,6 @@ Hi! My name is Tony, and I’m a Computer Science and Mathematics student at Hun
 
 # 👨‍💻 Experience
 
-# 👨‍💻 Experience
-
 **Software Engineer Intern - Infrastructure** @ [BGC Group](https://www.bgcg.com/) _(August 2024 - Present)_
 -  Member of the Core Infrastructure Team for Enterprise Trading Systems and Electronic Brokerage.
 -  Developed and configured pipelines to automate infrastructure tasks and validate code in dev environments.
