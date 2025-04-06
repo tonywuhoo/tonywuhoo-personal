@@ -63,6 +63,8 @@ at scale.
 
 
 # 🧪 Projects
+## [Decentralized Voting System - BlockVote](https://github.com/tonywuhoo/blockvote) 🔗
+- Developed a decentralized identity and voting system on the Solana blockchain, enabling users to mint tokenized IDs and securely participate in governance.
 
 ## [OpenAI Discord Bot](https://github.com/tonywuhoo/OpenAI-Bot) 🔗
 - A scalable, multi-server Discord bot that integrates OpenAI’s API that includes AI Image Models, and AI Text Models that enable Users to interact and receive responses.
