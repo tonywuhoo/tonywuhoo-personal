@@ -10,7 +10,6 @@ Hi! My name is Tony, and I’m a Computer Science and Mathematics student at Hun
 -  Member of the Core Infrastructure Team for Enterprise Trading Systems and Electronic Brokerage.
 -  Developed and configured pipelines to automate infrastructure tasks and validate code in dev environments.
 -  Migrated Grafana observability stack to Kubernetes via OpenShift using Helm, consolidating components like Prometheus, Mimir, and Blackbox Exporter, reducing redeployment time by 40%.
-reducing redeployment time by 40%.
 -  Leveraged Ansible, Kubernetes Tanzu, Python, shell scripts, and cron jobs across multiple Linux distributions to
 automate workflows.
 - _**Technologies used:**_ Python, Docker, Kubernetes
