@@ -9,11 +9,15 @@ Hi! My name is Tony, and I’m a Computer Science and Mathematics student at Hun
 **Software Engineer Intern - Infrastructure** @ [BGC Group](https://www.bgcg.com/) _(August 2024 - Present)_
 -  Member of the Core Infrastructure Team for Enterprise Trading Systems and Electronic Brokerage.
 -  Developed and configured pipelines to automate infrastructure tasks and validate code in dev environments.
--  Migrated Grafana stack from monolithic to Kubernetes, consolidating 8 services like Prometheus and HP OBM,
+-  Migrated Grafana observability stack to Kubernetes via OpenShift using Helm, consolidating components like Prometheus, Mimir, and Blackbox Exporter, reducing redeployment time by 40%.
 reducing redeployment time by 40%.
 -  Leveraged Ansible, Kubernetes Tanzu, Python, shell scripts, and cron jobs across multiple Linux distributions to
 automate workflows.
 - _**Technologies used:**_ Python, Docker, Kubernetes
+
+**Software Engineer Mentee** @ [Google](https://www.google.com/) _(Feburary 2025 - Present)_
+-  Selected for Google’s Software Engineering Program (GSWEP), receiving mentorship from Google engineers on algorithms, system design, and software development.
+- _**Technologies used:**_ Python, Algorithms, System Design
 
 **Software Engineer Intern - Full Stack** @ [Cantor Fitzgerald](https://www.cantor.com/) _(June 2024 - August 2024)_
 -  Built internal tools to improve data access and streamline workflows for 1,200 front-office bankers.
@@ -21,7 +25,7 @@ automate workflows.
 -  Implemented LDAP authentication with ADAL and Spring Security, streamlining access for 1,200 bankers and
 cutting login times by 10 seconds per session.
 -  Built a Redis-based pub/sub system for internal dashboard synchronization, achieving sub-50ms latency between
-PowerBI updates and backend DB (Oracle).
+PowerBI updates and backend DB.
 - _**Technologies used:**_ Python, Javascript, Docker, Redis
 
 **Founder - CEO** @ [CTB Trading Inc.](#) _(October 2023 - Present)_
